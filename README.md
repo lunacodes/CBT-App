@@ -12,6 +12,5 @@ A basic CBT Thought Journal app.
 
 <br>
 ## Future:
-Future versions will have additional functionality & output color.
-
-There will also be a javascript version in the future.
++ Future versions will have additional functionality & output color.
++ There will also be a javascript version in the future.
