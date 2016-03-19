@@ -10,7 +10,7 @@ A basic CBT Thought Journal app.
 + "Alternative thought"
 + "Emotion or Feeling"
 
-<br><br>
+<br>
 ## Future:
 Future versions will have additional functionality & output color.
 
